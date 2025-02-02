@@ -37,8 +37,7 @@ git clone https://github.com/Tdyda/CineCastAPI.git
 
 ### 2. Plik appsettings.json i zmienne środowiskowe
     Aplikacja korzysta z konfiguracji zapisanej w pliku appsettings.json oraz ze zmiennych środowiskowych. Poniżej znajduje się przykładowa zawartość pliku appsettings.json:
-
-    ```json
+```json
     {
         "Logging": {
             "LogLevel": {
@@ -72,7 +71,7 @@ git clone https://github.com/Tdyda/CineCastAPI.git
             }
         }
     }
-    ```
+```
 
 Sposób konfiguracji
 - ConnectionString:
@@ -103,7 +102,7 @@ Aby poprawnie skonfigurować połączenie z bazą danych, ustaw następujące zm
 - DB_USER
 - DB_PASSWORD
 
-- JWT oraz AppSettings:
+JWT oraz AppSettings:
 Parametry dla sekcji Jwt i AppSettings są pobierane z zmiennych środowiskowych dzięki metodzie builder.Configuration.AddEnvironmentVariables();. Upewnij się, że na docelowym serwerze ustawione są odpowiednie zmienne środowiskowe, np.:
 
 - Klucz JWT: Jwt__Key
