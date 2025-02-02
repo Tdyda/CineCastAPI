@@ -8,8 +8,7 @@ using VideoStreamingAPI.Services;
 namespace VideoStreamingAPI.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
-    [Authorize(Roles = "admin")]
+    [ApiController]    
     public class ManageRolesController : Controller
     {
         private readonly RoleManager _roleManager;
@@ -36,14 +35,14 @@ namespace VideoStreamingAPI.Controllers
                 return StatusCode(500, ex.Message);
             }
         }
-
+        [Authorize(Roles = "admin")]
         [HttpGet("AssignRole")]
         public async Task<IActionResult> AssingRole()
         {
             var users = await _userManager.Users.ToListAsync();
             return Ok(users);
         }
-
+        [Authorize(Roles = "admin")]
         [HttpPost("AssignRole")]
         public async Task<IActionResult> AssignRole(string userId, string roleName)
         {
