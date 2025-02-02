@@ -32,8 +32,8 @@ git clone https://github.com/Tdyda/CineCastAPI.git
 
 ## Konfiguracja środowiska
 ### 1. Tworzenie bazy danych
-    - Po pobraniu repozytorium utwórz nową bazę danych na docelowym serwerze.
-    - Upewnij się, że posiadasz odpowiednie uprawnienia do tworzenia bazy danych oraz modyfikacji jej struktury.
+Po pobraniu repozytorium utwórz nową bazę danych na docelowym serwerze.
+Upewnij się, że posiadasz odpowiednie uprawnienia do tworzenia bazy danych oraz modyfikacji jej struktury.
 
 ### 2. Plik appsettings.json i zmienne środowiskowe
 Aplikacja korzysta z konfiguracji zapisanej w pliku appsettings.json oraz ze zmiennych środowiskowych. Poniżej znajduje się przykładowa zawartość pliku appsettings.json:
