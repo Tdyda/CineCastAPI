@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\controllers\\managerolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\managerolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\services\\rolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\services\\rolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\controllers\\managerolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\controllers\\managerolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|c:\\users\\tomek\\source\\repos\\videostreamingapi\\videostreamingapi\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA380ED-12BE-4347-8AD8-BF4726AB4EB7}|VideoStreamingAPI\\VideoStreamingAPI.csproj|solutionrelative:videostreamingapi\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,59 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
-              "RelativeToolTip": "VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T16:19:41.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "VideoStreamingAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\appsettings.json",
-              "RelativeToolTip": "VideoStreamingAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T15:20:44.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Program.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Program.cs",
               "RelativeToolTip": "VideoStreamingAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJUAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:32:09.744Z"
+              "WhenOpened": "2025-01-05T01:32:09.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileUploadService.cs",
-              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\FileUploadService.cs",
-              "RelativeDocumentMoniker": "VideoStreamingAPI\\Services\\FileUploadService.cs",
-              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\FileUploadService.cs",
-              "RelativeToolTip": "VideoStreamingAPI\\Services\\FileUploadService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:06:51.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MoviesCatalogController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\MoviesCatalogController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\MoviesCatalogController.cs",
@@ -142,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ActorsController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\ActorsController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\ActorsController.cs",
@@ -154,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ManageFilesController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\ManageFilesController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\ManageFilesController.cs",
@@ -166,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Models\\AppSettings.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Models\\AppSettings.cs",
@@ -178,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TagsController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\TagsController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\TagsController.cs",
@@ -186,37 +155,85 @@
               "RelativeToolTip": "VideoStreamingAPI\\Controllers\\TagsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:47:16.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T21:47:16.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\AccountController.cs",
               "RelativeToolTip": "VideoStreamingAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwHAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T23:45:57.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T23:45:57.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "ManageRolesController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\ManageRolesController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\ManageRolesController.cs",
               "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\ManageRolesController.cs",
               "RelativeToolTip": "VideoStreamingAPI\\Controllers\\ManageRolesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T23:35:52.127Z"
+              "WhenOpened": "2025-01-05T23:35:52.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VideoStreamingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\appsettings.json",
+              "RelativeToolTip": "VideoStreamingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T15:20:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\RoleManager.cs",
+              "RelativeDocumentMoniker": "VideoStreamingAPI\\Services\\RoleManager.cs",
+              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\RoleManager.cs",
+              "RelativeToolTip": "VideoStreamingAPI\\Services\\RoleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:37:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\FileUploadService.cs",
+              "RelativeDocumentMoniker": "VideoStreamingAPI\\Services\\FileUploadService.cs",
+              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\FileUploadService.cs",
+              "RelativeToolTip": "VideoStreamingAPI\\Services\\FileUploadService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T01:06:51.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "VideoStreamingAPI\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:19:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "VideoStreamingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Data\\VideoStreamingDbContext.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Data\\VideoStreamingDbContext.cs",
@@ -228,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Models\\Tag.cs",
@@ -240,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MediaStreamingController.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Controllers\\MediaStreamingController.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Controllers\\MediaStreamingController.cs",
@@ -252,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IFileUploadService.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Services\\IFileUploadService.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Services\\IFileUploadService.cs",
@@ -264,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\Repositories\\MovieRepository.cs",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\Repositories\\MovieRepository.cs",
@@ -276,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "VideoStreamingAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Tomek\\source\\repos\\VideoStreamingAPI\\VideoStreamingAPI\\VideoStreamingAPI.csproj",
               "RelativeDocumentMoniker": "VideoStreamingAPI\\VideoStreamingAPI.csproj",

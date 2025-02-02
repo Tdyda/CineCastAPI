@@ -13,6 +13,7 @@ using VideoStreamingAPI.Services;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using System.Text.RegularExpressions;
 using System.Collections;
+using Microsoft.Extensions.Configuration;
 
 namespace VideoStreamingAPI
 {
@@ -28,7 +29,7 @@ namespace VideoStreamingAPI
 
             builder.Configuration.AddEnvironmentVariables();
 
-            var connectionStringTemplate = builder.Configuration.GetConnectionString("ConnectionString");
+            var connectionStringTemplate = builder.Configuration.GetConnectionString("ConnectionString") ?? throw new Exception("ConnectionString is missing in appsettings.json"); ;
 
             var connectionString = Regex.Replace(connectionStringTemplate, @"\$\{(\w+)\}", match =>
             {
@@ -47,6 +48,11 @@ namespace VideoStreamingAPI
             builder.Configuration["ConnectionStrings:ConnectionString"] = connectionString;
 
             builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+
+            var jwtSettings = builder.Configuration.GetSection("Jwt");
+            var secretKey = jwtSettings["Key"] ?? throw new Exception("JWT secret key is missing in appsettings.json");
+            var issuer = jwtSettings["Issuer"] ?? throw new Exception("JWT issuer is missing in appsettings.json");
+            var audience = jwtSettings["Audience"] ?? throw new Exception("JWT audience is missing in appsettings.json");
 
             builder.Services.AddDbContext<VideoStreamingDbContext>(options =>
                  options.UseMySql(connectionString,
@@ -133,17 +139,17 @@ namespace VideoStreamingAPI
                 options.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("your_secret_key_1234567890!@#$%^&*()")),
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey)),
                     ValidateIssuer = true,
-                    ValidIssuer = "YourIssuer",
+                    ValidIssuer = issuer,
                     ValidateAudience = true,
-                    ValidAudience = "YourAudience",
+                    ValidAudience = audience,
                     ValidateLifetime = true,
                     ClockSkew = TimeSpan.Zero
                 };
             });
 
-            builder.Services.AddSingleton(new TokenService("your_secret_key_1234567890!@#$%^&*()", "YourIssuer", "YourAudience"));
+            builder.Services.AddSingleton(new TokenService(secretKey, issuer, audience));
 
             var app = builder.Build();
 

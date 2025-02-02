@@ -623,5 +623,3 @@ C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\obj\Debug\net8.0
 C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\obj\Debug\net8.0\VideoStreamingAPI.genruntimeconfig.cache
 C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\obj\Debug\net8.0\ref\VideoStreamingAPI.dll
 C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\bin\Debug\net8.0\appsettingsCopy.Development.json
-C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\bin\Debug\net8.0\appsettingsCopy.json
