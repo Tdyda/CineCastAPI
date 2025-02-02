@@ -36,7 +36,7 @@ git clone https://github.com/Tdyda/CineCastAPI.git
     - Upewnij się, że posiadasz odpowiednie uprawnienia do tworzenia bazy danych oraz modyfikacji jej struktury.
 
 ### 2. Plik appsettings.json i zmienne środowiskowe
-    Aplikacja korzysta z konfiguracji zapisanej w pliku appsettings.json oraz ze zmiennych środowiskowych. Poniżej znajduje się przykładowa zawartość pliku appsettings.json:
+Aplikacja korzysta z konfiguracji zapisanej w pliku appsettings.json oraz ze zmiennych środowiskowych. Poniżej znajduje się przykładowa zawartość pliku appsettings.json:
 ```json
     {
         "Logging": {
