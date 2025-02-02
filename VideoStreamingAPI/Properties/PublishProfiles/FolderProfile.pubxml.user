@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Tomek\source\repos\VideoStreamingAPI\VideoStreamingAPI\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-01-05T02:55:49.5494296Z||;True|2025-01-05T03:55:39.1605841+01:00||;True|2025-01-05T03:23:56.5935205+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
