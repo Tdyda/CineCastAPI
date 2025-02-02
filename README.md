@@ -188,7 +188,7 @@ Ustawiamy je dokładnie w ten sam sposób co dla środowiska testowego (opisanme
 Po opublikowaniu i skonfigurowaniu aplikacji uruchom ją poleceniem:
 
 ```bash
-dotnet YourApp.dll
+dotnet VideoStreamingAPI.dll
 ```
 
 ## Dodatkowe informacje
