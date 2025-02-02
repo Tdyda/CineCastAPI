@@ -60,7 +60,6 @@ namespace VideoStreamingAPI.Controllers
             return Unauthorized();
         }
 
-        [Authorize(Roles = "admin")]
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterRequest request)
         {
